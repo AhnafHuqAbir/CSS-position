@@ -1,0 +1,35 @@
+.static {
+    border: 5px solid purple;
+    position: static;
+}
+
+.sticky {
+    border: 5px solid burlywood;
+    position: sticky;
+    top: 0;
+}
+
+.relative {
+    border: 5px solid gainsboro;
+    position: relative;
+    left: 20px;
+}
+
+.absolute {
+    border: 5px solid bisque;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.absolute_parent {
+    border: 5px solid navajowhite;
+    height: 200px;
+    position: relative;
+}
+
+.fixed {
+    border: 5px solid firebrick;
+    position: fixed;
+    bottom: 0;
+}
