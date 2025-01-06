@@ -1,6 +1,8 @@
 .static {
     border: 5px solid purple;
     position: static;
+    background-color: fuchsia;
+    opacity: 0.8;
 }
 
 .sticky {
